@@ -11,3 +11,4 @@ QQ: 1589353390
 
 
 # 截图  
+![Image text](https://github.com/Hurdery/AppStore-main-scroll/blob/master/screenshot/screenshot.png)
